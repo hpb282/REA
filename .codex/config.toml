@@ -1,0 +1,4 @@
+# Enable the REA plugin from the repository marketplace for trusted Codex projects.
+# Plugin installation into a runtime is still required.
+[plugins."rea@rea"]
+enabled = true
