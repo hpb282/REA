@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "rea": {
+      "source": {
+        "source": "github",
+        "repo": "hpb282/REA"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "rea@rea": true
+  }
+}
